@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Julius and I am interest in Network engineering and Cyber Security froensics Analysis
+My name is Julius and I am interest in Network engineering and Cyber Security forensics Analysis
 
 - 🌱 I recently built a Cluster Rig to platform multiple servers for QOL services 
 
